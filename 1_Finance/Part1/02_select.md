@@ -1,6 +1,6 @@
 # Niveau facile
 
-## Donner la liste des noms des jeunes trader et leurs classe actifs ; où jeune si moins de 5 ans d'expérience.
+### Donner la liste des noms des jeunes trader et leurs classe actifs ; où jeune si moins de 5 ans d'expérience.
 ``` sql
 SELECT name, classe_actif FROM trader 
 WHERE anneeExperience < 5
