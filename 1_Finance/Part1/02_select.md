@@ -132,7 +132,7 @@ WHERE tr.classe_actif = 'action'
 GROUP BY e.style
 ```
 
-# Multi-tables, avec jointures
+# Multi-tables, sans jointures
 
 ### mmts01 Donner la liste des noms et classes d’actifs des traders ayant plus de 3 ans d'expérience et faisant partie d'une équipe de style arbitrage statistique. On affichera par ordre alphabétique sur les noms.
 ``` sql
