@@ -17,4 +17,5 @@ pip install numpy
 
 ## Le Notebook
 
-Le notebook 1 a été réalisé dans son entièreté.
+Les notebooks 1 et 2 ont été réalisés dans son entièreté.  
+[Lien direct sur la page GitHub](https://github.com/Sophana63/brief_09/tree/main/1_Finance/Part2)
